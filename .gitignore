@@ -1,0 +1,27 @@
+# venv
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# build
+*.egg-info/
+build/
+dist/
+
+# Pythonowe
+__pycache__/
+*.py[cod]  # pliki skompilowane Python (.pyc, .pyo, .pyd)
+*.pyo
+*.pyd
+*.pkl
+
+# log
+*.log
+
+# config files and IDE cache
+*.swp
+*.swo
+*.swn
